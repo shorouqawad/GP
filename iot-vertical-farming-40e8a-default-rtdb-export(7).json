@@ -1,0 +1,33 @@
+{
+  "control": {
+    "control_type": "manual",
+    "status_big_pump1_spraying": "off",
+    "status_big_pump2_solution": "off",
+    "status_light": "off",
+    "status_small_pump1_acid": "on",
+    "status_small_pump2_base": "on",
+    "status_small_pump3_nutrient": ""
+  },
+  "sensor_reading": {
+    "plant_id1": {
+      "air_humidity": 0,
+      "air_temperature": 0,
+      "light_intensity": 22,
+      "ph": 22,
+      "tds": 421.137115479,
+      "time": "yy-mm-dd H:i:s",
+      "water_temperature": 22
+    }
+  },
+  "setting_plant_properties": {
+    "plant_id1": {
+      "air_humidity": "",
+      "air_temperature": "",
+      "light_intensity": "",
+      "ph": "",
+      "plant_name": "",
+      "tds": "",
+      "water_temperature": ""
+    }
+  }
+}
